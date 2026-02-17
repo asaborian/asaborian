@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Asaborian 👋
+
+Indie developer focused on simple, lightweight, and intuitive apps.
+
+- Minimal features  
+- Clear UI  
+- Fast performance  
+
+🌐 https://asabori.com
 
 <!--
 **asaborian/asaborian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
