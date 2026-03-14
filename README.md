@@ -1,24 +1,44 @@
-# Hi, I'm Asaborian 👋
+# Asaborian
 
-Indie developer focused on simple, lightweight, and intuitive apps.
+Building simple, lightweight apps that reduce unnecessary time loss and improve fairness in everyday processes.
 
-- Minimal features  
-- Clear UI  
-- Fast performance  
+## Mission
+Create tools that simplify rules, procedures, and repetitive tasks, and give anonymous groups the ability to push back against structural inefficiencies.
 
-🌐 https://asabori.com
+## Focus
+- Eliminating unnecessary steps and waiting time  
+- Visualizing inefficiencies in rules and workflows  
+- Supporting people in constrained or vulnerable positions  
+- Anonymous collective feedback and pressure  
+- Minimal, intuitive decision-support tools  
 
-<!--
-**asaborian/asaborian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main Stack
+Dart  
+Flutter  
+Firebase  
+Vim  
+Tmux  
+Alacritty  
+Linux (Ubuntu Desktop)  
+Gemini CLI  
+Google Play  
+ConoHa WING  
+WordPress  
+GeneratePress  
 
-Here are some ideas to get you started:
+## Supporting Tools
+HTML / CSS / JavaScript / TypeScript  
+PHP / Python  
+Tailwind  
+Laravel  
+Vue.js  
+MySQL  
+Docker  
+Raspberry Pi 4  
+VSCode  
+GitHub Copilot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+https://dev.asabori.com  
+Google Play: coming soon  
+https://x.com/asaborian_dev
